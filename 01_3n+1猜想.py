@@ -12,6 +12,7 @@ def callatz(i):
         else:
             i = i/2
         j += 1
+        # print(i)
     return j
 
 
