@@ -7,7 +7,7 @@ for i in range(n):
     lst.append(input().strip())
 
 maxIndex = 0
-minIndex = 0
+minIndex = 1
 maxScore = int(lst[maxIndex].split(' ')[2])
 minScore = int(lst[minIndex].split(' ')[2])
 
